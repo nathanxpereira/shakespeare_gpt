@@ -1,3 +1,5 @@
 .venv/
 data/
+models/
+deepseek_tokenizer/
 **.pyc
